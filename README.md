@@ -1,3 +1,4 @@
+~~~
 import numpy as np
 import matplotlib.pyplot as plt
 data = [1, 0, 1, 0, 1, 1, 0, 1] 
@@ -63,7 +64,7 @@ plt.xlabel('Time (s)')
 plt.ylabel('Amplitude')
 plt.tight_layout()
 plt.show()
-
+~~~
 *output*
 ![download](https://github.com/user-attachments/assets/e5f5c790-e594-44fc-8c3a-56c1c0d9a9ec)
 
